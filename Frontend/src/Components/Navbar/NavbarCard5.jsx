@@ -46,7 +46,7 @@ function NavbarCard5() {
                 <Flex direction="column" justifyContent="space-evenly" mt="20">
                   <Flex gap="5" fontSize="15px">
                     <Avatar
-                      name="Aditya Konda"
+                      name="dhara agrawal"
                       src="https://imgur.com/xK8hjZN.png"
                       alt="men"
                       size="md"
@@ -91,7 +91,7 @@ function NavbarCard5() {
                       Funky
                     </Box>
                   </Flex>
-                  /*adityakonda06... link:"https://github.com/AdityaKonda6"*/
+
 
 
                   <Flex gap="5">
@@ -543,7 +543,7 @@ function NavbarCard5() {
                 <Flex direction="column" justifyContent="space-evenly">
                   <Flex gap="5">
                     <Avatar
-                      name="Aditya Konda"
+                      name="dhara agrawal"
                       src="https://imgur.com/xK8hjZN.png"
                       alt="men"
                       size="md"
@@ -906,21 +906,3 @@ function NavbarCard5() {
   );
 }
 export default NavbarCard5;
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/

@@ -52,14 +52,13 @@ export const NavbarCard2 = () => {
       <HStack m="auto">
         <Box w="20%">
           <Link to="/">
-            <Image src="https://imgur.com/CKWtYBx.png" alt="logo" w="75%" />
           </Link>
         </Box>
         <HStack w="85%" m="auto">
           <Box w="15%">
             <HStack fontSize="18px" fontWeight="bold">
               <FiPhoneCall />
-              <Text>9324-121-023</Text>
+              <Text>9822378837</Text>
             </HStack>
           </Box>
           <Box w="55%">

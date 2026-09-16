@@ -210,7 +210,7 @@ const Home = () => {
       <br />
       <br />
       <br />
-      <HomeCard5c type={HomeDetails14} heading="MEET OUR HAPPY CUSTOMERS" />
+      {/*<HomeCard5c type={HomeDetails14} heading="MEET OUR HAPPY CUSTOMERS" />*/}
       <HomeCard7 />
       <HomeCard8 type={HomeDetails15} />
       <Footer />
