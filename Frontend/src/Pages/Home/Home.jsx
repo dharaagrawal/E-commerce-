@@ -204,7 +204,8 @@ const Home = () => {
       <br />
       <HomeCard4b
         text=""
-        src="https://static1.lenskart.com/media/desktop/img/Aug21/25-Aug/whatsapp.png"
+        src="https://dc3bdnv3fyjde.cloudfront.net/uploads/2022/02/14/1ac3f89f4dd259f039e2344b3dabdba2.png" 
+        style={"width:100%;height:'10px'"}
       />
       <br />
       <br />
@@ -217,8 +218,4 @@ const Home = () => {
     </Box>
   );
 };
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
 export default Home;
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/
-/*adityakonda06... link:"https://github.com/AdityaKonda6"*/

@@ -450,18 +450,5 @@ export const HomeDetails15 = [
     Top Brand Eyeglasses- Ray-Ban Eyeglasses, Carrera Eyeglasses, Oakley, Men Eyeglasses, Women Eyeglasses, John Jacob Eyeglasses
     
     Best Styles In Eyeglasses- Full Rim Eyeglasses, Half Rim Eyeglasses, Rimless Eyeglasses, Cat Eye Eyeglasses, Aviator Shapes Eyeglasses, Wayfarer Shapes Eyeglasses`
-  },
-  {
-    head: "CONTACT LENSES",
-    info: `Lenskart has various types of contact lenses. Brands such as Aqualens, Bausch & Lomb, Johnson & Johnson, Acuvue, Alcon, and Purevision, among others have yearly, monthly, 2-weekly, and daily disposable contact lenses. Specially designed toric contact lenses are also available from these brands.
-    Coloured Contact Lenses Are Available With And Without Power, And Some Of Them Have UV Protection As Well. The Unique Colours That You Could Try Are Amethyst, Hazel, Green, Turquoise, Blue, Brown, And Grey, Which Look Quite Stylish. Made From The Best Materials That Allow Ample Oxygen Supply To The Eyes, These Contact Lenses Sit Perfectly On The Eyes And Can Be Worn Anywhere.
-    
-    Lenskart Also Offers A Wide Range Of Contact Lens Accessories. To Clean Your Contacts, You Can Get The Best Contact Lens Solutions From Our Online Store, Which Are Easy To Use And Effective In Keeping Your Eyes Healthy.
-    
-    Popular Contact Lenses Brands- Bausch & Lomb Contact Lenses, Ciba Vision Contact Lenses, Johnson & Johnson Contact Lenses
-    
-    Contact Lenses By Type- Monthly Disposable, Daily Disposable, Toric Contact Lenses
-    
-    Lenses Directory`
   }
 ];
